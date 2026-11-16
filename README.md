@@ -1,4 +1,3 @@
-
 # Paradise Nursery Shopping Application
 
 ## About the Project
